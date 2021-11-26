@@ -24,7 +24,7 @@ public class Main {
 
 		System.out.println("\n*************************\n");
 
-		System.out.println("Welcome to "obj2.departmentName());
+		System.out.println("Welcome to "+obj2.departmentName());
 		System.out.println(obj2.doActivity());
 		System.out.println(obj2.getTodaysWork());
 		System.out.println(obj2.getWorkDeadline());
@@ -32,7 +32,7 @@ public class Main {
 
 		System.out.println("\n*************************\n");
 
-		System.out.println("Welcome to "obj3.departmentName());
+		System.out.println("Welcome to "+obj3.departmentName());
 		System.out.println(obj3.getTodaysWork());
 		System.out.println(obj3.getWorkDeadline());
 		System.out.println(obj3.getTechStackInformation());
